@@ -1,11 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
 
 
 
@@ -719,27 +716,6 @@ section.form .container {
 }
 .theme-border {
   border: 1px solid #c0a375;
-}
-#msg-box3-2t .mbr-section-title,
-#msg-box3-2t p {
-  color: #000;
-}
-#msg-box3-2t .btn {
-  font-size: 24px;
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box3-4 .mbr-section-title,
-#msg-box3-4 p {
-  color: #000;
-}
-#msg-box3-4 .mbr-section-title {
-  color: #ffffff;
-  font-size: 20px;
-  text-align: center;
-}
-#msg-box3-4 .mbr-section-title SPAN {
-  font-size: 30px;
-  font-family: 'Open Sans Condensed', sans-serif;
 }
 #extFeatures7-1s H5 {
   color: #668103;
