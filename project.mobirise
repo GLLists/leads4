@@ -37,7 +37,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "",
-    "uniqCompNum": 94,
+    "uniqCompNum": 93,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
