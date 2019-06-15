@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#555555",
-        "#232323",
-        "#222222",
         "#c60000",
         "#119e4f",
         "#2e2e2e",
-        "#668103"
+        "#668103",
+        "#728e0a",
+        "#960000",
+        "#af0000"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -37,7 +37,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "",
-    "uniqCompNum": 102,
+    "uniqCompNum": 93,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -184,7 +184,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": "0.4"
           },
-          "title": "<span style=\"font-weight: normal;\">CAREFULLY REVIEW EVERYTHING &amp; THEN CALL MICHAEL AT <a href=\"tel:+1-865-245-5705\">865-245-5705</a></span>",
+          "title": "<span style=\"font-weight: normal;\">CAREFULLY REVIEW EVERYTHING &amp; THEN CALL MICHAEL AT...&nbsp;<a href=\"tel:+1-865-245-5705\">865-245-5705</a></span>",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "_tags": [
             "Theme"
@@ -727,7 +727,7 @@
           ],
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box4",
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x100012.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 30px;\" code-editable-id=\"28\">Wondering which package is right for you? Here's a couple things to consider...\n</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x10002.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 30px;\" code-editable-id=\"28\">Wondering which package is right for you? Here's a couple things to consider...\n</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customTemplate": true,
           "_anchor": "msg-box4-1u",
           "_PHPplaceholders": [],
