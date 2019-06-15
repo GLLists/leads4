@@ -14,6 +14,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -742,12 +743,13 @@ section.form .container {
   font-size: 100px;
   font-family: 'Oswald', sans-serif;
 }
-#msg-box3-2l .mbr-section-title,
-#msg-box3-2l p {
+#msg-box3-2t .mbr-section-title,
+#msg-box3-2t p {
   color: #000;
 }
-#msg-box3-2l .btn {
-  font-size: 18px;
+#msg-box3-2t .btn {
+  font-size: 24px;
+  font-family: 'Oswald', sans-serif;
 }
 #msg-box3-4 .mbr-section-title,
 #msg-box3-4 p {
