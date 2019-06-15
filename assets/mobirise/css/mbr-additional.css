@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
-@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
@@ -765,162 +765,6 @@ section.form .container {
 #extFeatures7-1s H5 {
   color: #668103;
 }
-#msg-box4-5 DIV {
-  text-align: left;
-}
-#msg-box4-5 H3 {
-  text-align: left;
-  font-size: 30px;
-  color: #b90300;
-}
-#msg-box4-5 P {
-  font-size: 30px;
-}
-#msg-box8-a .mbr-section-title,
-#msg-box8-a p {
-  color: #fff;
-}
-#msg-box8-a .mbr-section-title {
-  font-size: 30px;
-  color: #efefef;
-}
-#extFeatures6-c .card-img {
-  background-color: #3d8eb9 !important;
-}
-#content5-8 .mbr-section-title,
-#content5-8 p {
-  color: #fff;
-}
-#content5-8 .mbr-section-title {
-  text-align: center;
-  font-size: 24px;
-  color: #fac51c;
-}
-#content5-8 P {
-  text-align: center;
-  font-size: 30px;
-}
-#content5-8 DIV {
-  color: #f7da64;
-}
-#extTabs2-d B {
-  font-size: 20px;
-}
-#extTabs2-d P {
-  color: #af0000;
-}
-#extMsg-box1-k H3 {
-  color: #000000;
-  font-size: 30px;
-}
-#extMsg-box1-k P {
-  color: #28324e;
-}
-#content5-n .mbr-section-title,
-#content5-n p {
-  color: #fff;
-}
-#content5-n .mbr-section-title {
-  text-align: center;
-  font-size: 30px;
-  color: #ffffff;
-}
-#content5-n P {
-  text-align: center;
-  font-size: 30px;
-}
-#content5-n DIV {
-  color: #000000;
-}
-#msg-box4-z DIV {
-  text-align: left;
-}
-#msg-box4-z H3 {
-  text-align: left;
-  font-size: 24px;
-  color: #b90300;
-}
-#msg-box4-z P {
-  font-size: 18px;
-}
-#content5-1d .mbr-section-title,
-#content5-1d p {
-  color: #fff;
-}
-#content5-1d .mbr-section-title {
-  text-align: center;
-  font-size: 60px;
-  color: #ffffff;
-}
-#content5-1d P {
-  text-align: center;
-  font-size: 30px;
-}
-#content5-1d DIV {
-  color: #af0000;
-}
-#content5-1c .mbr-section-title,
-#content5-1c p {
-  color: #fff;
-}
-#content5-1c .mbr-section-title {
-  text-align: center;
-  font-size: 30px;
-  color: #ffffff;
-}
-#content5-1c P {
-  text-align: center;
-  font-size: 30px;
-}
-#content5-1c DIV {
-  color: #af0000;
-}
-#msg-box3-1m .mbr-section-title,
-#msg-box3-1m p {
-  color: #000;
-}
-#msg-box3-1m .mbr-section-title {
-  color: #222222;
-  font-size: 25px;
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-}
-#msg-box3-1m .lead {
-  color: #af0000;
-}
-#msg-box3-1m .lead P {
-  font-size: 30px;
-}
-#msg-box4-1n DIV {
-  text-align: left;
-}
-#msg-box4-1n H3 {
-  text-align: left;
-  font-size: 30px;
-  color: #b90300;
-}
-#msg-box4-1n P {
-  font-size: 25px;
-}
-#msg-box3-1p .mbr-section-title,
-#msg-box3-1p p {
-  color: #000;
-}
-#msg-box3-1p .mbr-section-title {
-  color: #000000;
-  font-size: 25px;
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-}
-#msg-box3-1p .lead {
-  color: #af0000;
-}
-#msg-box3-1p .lead P {
-  font-size: 30px;
-}
-#footer1-1o P {
-  font-family: 'Droid Sans', sans-serif;
-}
 #content5-1y .mbr-section-title,
 #content5-1y p {
   color: #fff;
@@ -944,13 +788,6 @@ section.form .container {
 }
 #extMsg-box3-1v P {
   color: #667403;
-}
-#msg-box5-26 H3 {
-  color: #119e4f;
-}
-#extAccordion2-2e H1 {
-  font-size: 36px;
-  color: #2e2e2e;
 }
 #msg-box4-2h P {
   font-family: 'Montserrat', sans-serif;
@@ -1360,4 +1197,115 @@ section.form .container {
 .cid-rtu4c04nr0 .modal-title B {
   font-size: 30px;
   font-family: 'Oswald', sans-serif;
+}
+#msg-box4-5 DIV {
+  text-align: left;
+}
+#msg-box4-5 H3 {
+  text-align: left;
+  font-size: 30px;
+  color: #b90300;
+}
+#msg-box4-5 P {
+  font-size: 30px;
+}
+#msg-box8-a .mbr-section-title,
+#msg-box8-a p {
+  color: #fff;
+}
+#msg-box8-a .mbr-section-title {
+  font-size: 30px;
+  color: #efefef;
+}
+#content5-8 .mbr-section-title,
+#content5-8 p {
+  color: #fff;
+}
+#content5-8 .mbr-section-title {
+  text-align: center;
+  font-size: 24px;
+  color: #fac51c;
+}
+#content5-8 P {
+  text-align: center;
+  font-size: 30px;
+}
+#content5-8 DIV {
+  color: #f7da64;
+}
+#msg-box4-z DIV {
+  text-align: left;
+}
+#msg-box4-z H3 {
+  text-align: left;
+  font-size: 24px;
+  color: #b90300;
+}
+#msg-box4-z P {
+  font-size: 18px;
+}
+#content5-1d .mbr-section-title,
+#content5-1d p {
+  color: #fff;
+}
+#content5-1d .mbr-section-title {
+  text-align: center;
+  font-size: 60px;
+  color: #ffffff;
+}
+#content5-1d P {
+  text-align: center;
+  font-size: 30px;
+}
+#content5-1d DIV {
+  color: #af0000;
+}
+#msg-box3-1m .mbr-section-title,
+#msg-box3-1m p {
+  color: #000;
+}
+#msg-box3-1m .mbr-section-title {
+  color: #222222;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box3-1m .lead {
+  color: #af0000;
+}
+#msg-box3-1m .lead P {
+  font-size: 30px;
+}
+#msg-box4-1n DIV {
+  text-align: left;
+}
+#msg-box4-1n H3 {
+  text-align: left;
+  font-size: 30px;
+  color: #b90300;
+}
+#msg-box4-1n P {
+  font-size: 25px;
+}
+#msg-box3-1p .mbr-section-title,
+#msg-box3-1p p {
+  color: #000;
+}
+#msg-box3-1p .mbr-section-title {
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box3-1p .lead {
+  color: #af0000;
+}
+#msg-box3-1p .lead P {
+  font-size: 30px;
+}
+#footer1-1o P {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box5-26 H3 {
+  color: #119e4f;
 }
