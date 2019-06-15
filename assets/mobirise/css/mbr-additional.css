@@ -1,12 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
 
 
 
@@ -722,26 +719,6 @@ section.form .container {
 }
 .theme-border {
   border: 1px solid #c0a375;
-}
-#msg-box3-2r .mbr-section-title,
-#msg-box3-2r p {
-  color: #000;
-}
-#msg-box3-2r .mbr-section-title {
-  color: #000000;
-  font-size: 60px;
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-}
-#msg-box3-2r .lead {
-  color: #000000;
-}
-#msg-box3-2r .lead P {
-  font-size: 20px;
-}
-#msg-box3-2r .mbr-section-title SPAN {
-  font-size: 100px;
-  font-family: 'Oswald', sans-serif;
 }
 #msg-box8-2l .mbr-section-title,
 #msg-box8-2l p {

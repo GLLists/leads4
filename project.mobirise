@@ -56,67 +56,14 @@
       },
       "components": [
         {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "60px",
-              "text-align": "center",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".lead": {
-              "color": "#000000"
-            },
-            ".lead P": {
-              "font-size": "20px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "100px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/thankssunset-1920x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": "0.2"
-          },
-          "title": "<span style=\"font-weight: normal;\">Thank You</span>",
-          "text": "<p><b>YOU JUST MADE A VERY SMART DECISION\n</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-2r"
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
             }
           },
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButton": true,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -135,7 +82,7 @@
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#extFeatures7-1s\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
