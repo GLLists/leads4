@@ -783,9 +783,6 @@ section.form .container {
 #msg-box4-2h H3 {
   color: #b8312f;
 }
-#footer1-1o P {
-  font-family: 'Droid Sans', sans-serif;
-}
 .cid-rtHdiKtWO5 {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -794,4 +791,10 @@ section.form .container {
 .cid-rtHdiKtWO5 .mbr-overlay {
   background-color: #ffffff;
   opacity: 0.4;
+}
+.cid-rtHdiKtWO5 H4 {
+  color: #ffffff;
+}
+#footer1-1o P {
+  font-family: 'Droid Sans', sans-serif;
 }
