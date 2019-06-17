@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#232323",
         "#c60000",
         "#119e4f",
         "#2e2e2e",
         "#668103",
         "#728e0a",
-        "#960000",
-        "#af0000"
+        "#960000"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -37,7 +37,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "",
-    "uniqCompNum": 102,
+    "uniqCompNum": 103,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -56,87 +56,47 @@
       },
       "components": [
         {
-          "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "color": "#222222",
-              "font-size": "100px",
-              "text-align": "center",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "color": "#fff"
             },
             ".lead": {
-              "color": "#af0000"
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "80px"
             },
             ".lead P": {
-              "font-size": "32px"
+              "font-size": "30px"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/thankssunset-1920x1080.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Thank You\n",
-          "text": "<p>YOU JUST MADE A VERY SMART DECISION</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-2t"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.6"
           },
-          "title": "MODERN STYLES",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "title": "Thank You",
+          "text": "<p>YOU JUST MADE A VERY SMART DECISION</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-2o"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2u"
         },
         {
           "_styles": {
@@ -214,7 +174,7 @@
             "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x12761.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x12760.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -742,7 +702,7 @@
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x12761.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x12760.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
