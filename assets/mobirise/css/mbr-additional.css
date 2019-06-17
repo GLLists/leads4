@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -733,6 +735,10 @@ section.form .container {
 #msg-box3-2w .mbr-section-title,
 #msg-box3-2w p {
   color: #000;
+}
+#msg-box3-2w .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
 }
 #header3-2n .mbr-section-title,
 #header3-2n .mbr-section-subtitle {
