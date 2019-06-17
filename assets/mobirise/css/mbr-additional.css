@@ -738,6 +738,10 @@ section.form .container {
   font-size: 25px;
   font-family: 'Oswald', sans-serif;
 }
+#msg-box3-2w .mbr-section-title,
+#msg-box3-2w p {
+  color: #000;
+}
 #header3-2n .mbr-section-title,
 #header3-2n .mbr-section-subtitle {
   text-align: center;
