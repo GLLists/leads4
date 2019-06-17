@@ -37,7 +37,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "",
-    "uniqCompNum": 101,
+    "uniqCompNum": 102,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -55,6 +55,54 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#222222",
+              "font-size": "100px",
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".lead": {
+              "color": "#af0000"
+            },
+            ".lead P": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thankssunset-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Thank You\n",
+          "text": "<p>YOU JUST MADE A VERY SMART DECISION</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2t"
+        },
         {
           "_inherit": "msg-box8",
           "_styles": {
@@ -166,7 +214,7 @@
             "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x12760.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x12761.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -694,7 +742,7 @@
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x12760.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x12761.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",

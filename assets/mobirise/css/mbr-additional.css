@@ -1,8 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -716,6 +718,22 @@ section.form .container {
 }
 .theme-border {
   border: 1px solid #c0a375;
+}
+#msg-box3-2t .mbr-section-title,
+#msg-box3-2t p {
+  color: #000;
+}
+#msg-box3-2t .mbr-section-title {
+  color: #222222;
+  font-size: 100px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box3-2t .lead {
+  color: #af0000;
+}
+#msg-box3-2t .lead P {
+  font-size: 32px;
 }
 #msg-box3-2o .mbr-section-title,
 #msg-box3-2o p {
