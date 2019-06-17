@@ -645,50 +645,6 @@
           "_anchor": "content5-1y"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "24px",
-              "color": "#fac51c"
-            },
-            "P": {
-              "text-align": "center",
-              "font-size": "20px"
-            },
-            "DIV": {
-              "color": "#f7da64"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/money-dollar-bills-benjamin-franklin-1920x1080-wallpaper-1920x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2e2e2e",
-            "overlayOpacity": "0.8"
-          },
-          "title": "Most brokers charge $300 to $500 for ONE genealogy list",
-          "caption": "<p><b>CLEARLY YOU CAN SEE I OFFER FAR BETTER VALUE</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2r"
-        },
-        {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
@@ -739,7 +695,7 @@
           ],
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box4",
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x100010.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 30px;\" code-editable-id=\"21\">Wondering which package is right for you? Here's a couple things to consider...\n</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x100011.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 30px;\" code-editable-id=\"21\">Wondering which package is right for you? Here's a couple things to consider...\n</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customTemplate": true,
           "_anchor": "msg-box4-1u",
           "_PHPplaceholders": [],
